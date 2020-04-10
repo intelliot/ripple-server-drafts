@@ -1,6 +1,6 @@
 # Devnet has been upgraded to rippled 1.6.0-b1
 
-Ripple operates a test network called "Devnet" as a public service. To create a Devnet test account with test XRP, or to access Ripple's Devnet servers, see https://xrpl.org/xrp-testnet-faucet.html .
+Ripple operates a test network called "Devnet" as a public service. To create a Devnet test account with test XRP, or to access Ripple's Devnet servers, see <https://xrpl.org/xrp-testnet-faucet.html>.
 
 As of April 8, 2020, the Devnet validators have been upgraded to rippled version 1.6.0-b1.
 
@@ -22,9 +22,9 @@ C1B8D934087225F509BEB5A8EC24447854713EE447D277F69545ABFA0E0FD490 Tickets
 
 Amendments not listed above should be available for testing on Devnet in 2 weeks or less. The full list of Known Amendments: https://xrpl.org/known-amendments.html
 
-To review the amendments, check out the code on GitHub: https://github.com/ripple/rippled
+To review the amendments, check out the code on GitHub: <https://github.com/ripple/rippled>
 
-For help with installing unstable releases of rippled, see https://github.com/ripple/rippled/wiki/Installing-Unstable-Releases
+For help with installing unstable releases of rippled, see <https://github.com/ripple/rippled/wiki/Installing-Unstable-Releases>
 Full build instructions are available here: https://xrpl.org/install-rippled.html
 
 Thank you for supporting the XRP Ledger!
